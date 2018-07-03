@@ -3,6 +3,10 @@ body {
     color: rebeccapurple;
 }
 
+h1 {
+    color: red;
+}
+
 p {
     width: 18%;
     margin: 0 auto;
